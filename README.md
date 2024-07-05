@@ -105,5 +105,5 @@ The routes are grouped functionally for better organization:
 
 ## Flow Diagram
 
-![Flow Diagram](Voting%20Application%20Flow%20Diagram.drawio.svg)
+![Flow Diagram](flow%20diagram.png)
 
